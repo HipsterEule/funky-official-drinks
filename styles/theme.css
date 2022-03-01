@@ -1,0 +1,15 @@
+html {
+  font-family: 'Open Sans', sans-serif;
+  background: #e3037f;
+}
+
+.content {
+  text-align: center;
+}
+
+.content > div > img {
+  width: 100%;
+  max-width: 720px;
+  margin-top: -13px;
+}
+
